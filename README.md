@@ -10,17 +10,17 @@ Time spent: **3.5** hours spent in total
 
 The following **required** functionality is completed:
 
-* [Y] The introduction section explains the background of the company and how many games remain unfunded.
-* [Y] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [Y] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [Y] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [X] The introduction section explains the background of the company and how many games remain unfunded.
+* [X] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [X] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [X] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [Y] Modified the CSS to align text in center of page.
-* [Y] Modified the CSS to edit the scroll bar style.
-* [Y] Modified the CSS to remove margin on <body> tag.
-* [Y] Modified the CSS to make buttons look clickable.
+* [X] Modified the CSS to align text in center of page.
+* [X] Modified the CSS to edit the scroll bar style.
+* [X] Modified the CSS to remove margin on <body> tag.
+* [X] Modified the CSS to make buttons look clickable.
 
 ## Video Walkthrough
 
