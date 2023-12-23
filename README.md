@@ -27,6 +27,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src="https://i.imgur.com/jKjer2a.gif" title="Video Walkthrough" width='100%' alt="Video Walkthrough" />
+Video Link in case it doesn't show: https://i.imgur.com/jKjer2a.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF
