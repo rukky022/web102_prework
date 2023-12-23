@@ -32,6 +32,10 @@ Video Link in case it doesn't show: https://i.imgur.com/jKjer2a.gif
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ScreenToGIF
 
+## Notes
+
+Was unable to get the gif to show in the README on GitHub. It shows locally, but not here online.
+
 ## License
 
     Copyright [2023] [Ruqayyah Muse]
